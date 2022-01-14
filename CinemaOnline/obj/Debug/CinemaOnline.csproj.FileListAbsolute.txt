@@ -1,0 +1,761 @@
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\CinemaOnline.dll.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\CinemaOnline.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\CinemaOnline.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Antlr3.Runtime.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Autofac.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Autofac.Integration.Mvc.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\AutoMapper.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\BELibrary.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\CKFinder.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\EntityFramework.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\EntityFramework.SqlServer.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\log4net.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Owin.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Owin.Security.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Newtonsoft.Json.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Owin.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\PagedList.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\PagedList.Mvc.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.ValueTuple.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Helpers.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Mvc.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Optimization.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Razor.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.WebPages.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.WebPages.Razor.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\WebGrease.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Z.Expressions.Eval.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\BELibrary.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\BELibrary.dll.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Autofac.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Autofac.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Autofac.Integration.Mvc.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\AutoMapper.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\AutoMapper.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\EntityFramework.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\EntityFramework.SqlServer.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\log4net.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Owin.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.Owin.Security.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Newtonsoft.Json.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\PagedList.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\PagedList.Mvc.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.ValueTuple.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Helpers.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Mvc.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Optimization.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.Razor.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.WebPages.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\System.Web.WebPages.Razor.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Antlr3.Runtime.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\Z.Expressions.Eval.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CoreCompileInputs.cache
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CopyComplete
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\obj\Debug\CinemaOnline.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\obj\Debug\CinemaOnline.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\csc.exe
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\csc.exe.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\csc.rsp
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\csi.exe
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\csi.exe.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\csi.rsp
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.AppContext.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Console.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.IO.Compression.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.AccessControl.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.Claims.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Security.Principal.Windows.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.ValueTuple.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\vbc.exe
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\vbc.exe.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\vbc.rsp
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.AssemblyReference.cache
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\CinemaOnline.dll.config
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\CinemaOnline.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\CinemaOnline.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\csc.exe
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\csc.exe.config
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\csc.rsp
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\csi.exe
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\csi.exe.config
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\csi.rsp
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.AppContext.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Console.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.IO.Compression.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Claims.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.ValueTuple.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\vbc.exe
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\vbc.exe.config
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\vbc.rsp
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Antlr3.Runtime.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Autofac.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Autofac.Integration.Mvc.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\AutoMapper.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\BELibrary.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\CKFinder.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\EntityFramework.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\EntityFramework.SqlServer.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\log4net.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Owin.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Security.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Newtonsoft.Json.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Owin.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\PagedList.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\PagedList.Mvc.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.ValueTuple.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Helpers.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Mvc.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Optimization.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Razor.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.WebPages.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Razor.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\WebGrease.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Z.Expressions.Eval.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\BELibrary.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\BELibrary.dll.config
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Autofac.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Autofac.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Autofac.Integration.Mvc.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\AutoMapper.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\AutoMapper.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\EntityFramework.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\EntityFramework.SqlServer.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\log4net.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Owin.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Security.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Newtonsoft.Json.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\PagedList.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\PagedList.Mvc.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.ValueTuple.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Helpers.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Mvc.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Optimization.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.Razor.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.WebPages.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Razor.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Antlr3.Runtime.pdb
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\bin\Z.Expressions.Eval.xml
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.AssemblyReference.cache
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CoreCompileInputs.cache
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CopyComplete
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.dll
+E:\Project\Website_MVC_VeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\CinemaOnline.dll.config
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\CinemaOnline.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\CinemaOnline.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\csc.exe
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\csc.exe.config
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\csc.rsp
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\csi.exe
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\csi.exe.config
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\csi.rsp
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.AppContext.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Console.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.IO.Compression.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.AccessControl.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Claims.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.ValueTuple.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\vbc.exe
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\vbc.exe.config
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\vbc.rsp
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Antlr3.Runtime.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Autofac.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Autofac.Integration.Mvc.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\AutoMapper.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\BELibrary.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\CKFinder.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\EntityFramework.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\EntityFramework.SqlServer.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\log4net.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Owin.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Security.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Newtonsoft.Json.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Owin.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\PagedList.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\PagedList.Mvc.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.ValueTuple.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Helpers.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Mvc.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Optimization.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Razor.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.WebPages.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Razor.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\WebGrease.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Z.Expressions.Eval.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\BELibrary.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\BELibrary.dll.config
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Autofac.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Autofac.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Autofac.Integration.Mvc.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\AutoMapper.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\AutoMapper.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\EntityFramework.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\EntityFramework.SqlServer.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\log4net.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Owin.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.Owin.Security.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Newtonsoft.Json.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\PagedList.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\PagedList.Mvc.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.ValueTuple.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Helpers.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Mvc.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Optimization.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.Razor.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.WebPages.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\System.Web.WebPages.Razor.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Antlr3.Runtime.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\bin\Z.Expressions.Eval.xml
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.AssemblyReference.cache
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CoreCompileInputs.cache
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CopyComplete
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.dll
+E:\Project\Website_MVC_DatVeMovie\Source\CinemaOnline\obj\Debug\CinemaOnline.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\CinemaOnline.dll.config
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\CinemaOnline.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\CinemaOnline.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Autofac.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Autofac.Integration.Mvc.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\AutoMapper.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\BELibrary.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\CKFinder.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\EntityFramework.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\log4net.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Owin.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\PagedList.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.ValueTuple.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\WebGrease.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Z.Expressions.Eval.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\BELibrary.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\BELibrary.dll.config
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Autofac.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Autofac.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Autofac.Integration.Mvc.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\AutoMapper.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\AutoMapper.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\EntityFramework.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\log4net.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\PagedList.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.ValueTuple.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\bin\Z.Expressions.Eval.xml
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.dll
+C:\Users\PC\Desktop\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\CinemaOnline.dll.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\CinemaOnline.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\CinemaOnline.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Autofac.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Autofac.Integration.Mvc.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\AutoMapper.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\BELibrary.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\CKFinder.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\EntityFramework.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\log4net.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Owin.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\PagedList.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.ValueTuple.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\WebGrease.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Z.Expressions.Eval.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\BELibrary.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\BELibrary.dll.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Autofac.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Autofac.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Autofac.Integration.Mvc.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\AutoMapper.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\AutoMapper.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\EntityFramework.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\log4net.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\PagedList.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.ValueTuple.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\bin\Z.Expressions.Eval.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CopyComplete
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\CinemaOnline.dll.config
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\CinemaOnline.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\CinemaOnline.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\csc.exe
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\csc.exe.config
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\csc.rsp
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\csi.exe
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\csi.exe.config
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\csi.rsp
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.AppContext.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Console.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.IO.Pipes.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.AccessControl.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Claims.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Security.Principal.Windows.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.exe
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.exe.config
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\vbc.rsp
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Antlr3.Runtime.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Autofac.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Autofac.Integration.Mvc.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\AutoMapper.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\BELibrary.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\CKFinder.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\EntityFramework.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\EntityFramework.SqlServer.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\log4net.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Security.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Web.Infrastructure.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Newtonsoft.Json.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Owin.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\PagedList.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\PagedList.Mvc.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.ValueTuple.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Helpers.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Mvc.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Optimization.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Razor.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Razor.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\WebGrease.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Z.Expressions.Eval.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\BELibrary.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\BELibrary.dll.config
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Autofac.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Autofac.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Autofac.Integration.Mvc.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\AutoMapper.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\AutoMapper.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\EntityFramework.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\EntityFramework.SqlServer.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\log4net.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.Owin.Security.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Newtonsoft.Json.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\PagedList.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\PagedList.Mvc.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Threading.Tasks.Extensions.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.ValueTuple.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Helpers.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Mvc.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Optimization.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.Razor.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Deployment.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\System.Web.WebPages.Razor.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Antlr3.Runtime.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Plus.EF6.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Z.EntityFramework.Extensions.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\bin\Z.Expressions.Eval.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.AssemblyReference.cache
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CoreCompileInputs.cache
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.csproj.CopyComplete
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\CinemaOnline\obj\Debug\CinemaOnline.pdb

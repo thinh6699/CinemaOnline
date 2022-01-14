@@ -1,0 +1,190 @@
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\BELibrary.dll.config
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\BELibrary.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\BELibrary.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\AutoMapper.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\EntityFramework.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\System.Memory.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\AutoMapper.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\AutoMapper.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\EntityFramework.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.dll
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.pdb
+D:\02. Project\01. ASP.NET\CinemaOnline\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\BELibrary.dll.config
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\BELibrary.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\BELibrary.pdb
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\AutoMapper.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\EntityFramework.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\System.Memory.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\AutoMapper.pdb
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\AutoMapper.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\EntityFramework.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.dll
+E:\Project\Website_MVC_VeMovie\Source\BELibrary\obj\Debug\BELibrary.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\BELibrary.dll.config
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\BELibrary.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\BELibrary.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\AutoMapper.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\EntityFramework.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\System.Memory.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\AutoMapper.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\AutoMapper.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\EntityFramework.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\obj\Debug\BELibrary.dll
+E:\Project\Website_MVC_DatVeMovie\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.pdb
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\Users\PC\Desktop\C nâng cao\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+C:\Users\PC\Desktop\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\BELibrary.dll.config
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\BELibrary.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\BELibrary.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\System.Memory.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.dll
+G:\My Drive\Dữ liệu\Code\Source\Source\BELibrary\obj\Debug\BELibrary.pdb
